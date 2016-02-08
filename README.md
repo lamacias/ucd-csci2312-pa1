@@ -3,7 +3,7 @@
 
 * * *
 This program uses objects of a class <tt>Point</tt> to compute the distance between and the area of various three-dimensional points.
-Here is the header file <tt>Point.h</tt> that is used to describe an object representing a point in three-dimensional Euclidean space:
+    Here is the header file <tt>Point.h</tt> that is used to describe an object representing a point in three-dimensional Euclidean space:
 
 ```c++
 // A 3-dimensional point class
