@@ -64,3 +64,8 @@ To run the generated program:
 
 Compiler:
     This program was tested on a GCC compiler.
+    
+* * *
+    Lauren Macias
+    CSCI 2312-002
+    Programming Assignment 1
