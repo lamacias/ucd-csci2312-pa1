@@ -67,5 +67,7 @@ Compiler:
     
 * * *
 Lauren Macias
+
 CSCI 2312-002
+
 Programming Assignment 1
