@@ -1,4 +1,5 @@
 // main.cpp
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -10,7 +11,7 @@
 using std::cout;
 using std::endl;
 
-using namespace Testing;
+
 
 int main() {
 

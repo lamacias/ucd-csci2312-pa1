@@ -16,7 +16,8 @@ using Testing::ErrorContext;
 #define DESC(x) desc(x, __LINE__)  // ugly hack, but saves some time
 
 // smoke test
-void test_point_smoketest(ErrorContext &ec) {
+void test_point_smoketest(ErrorContext &ec)
+{
     bool pass;
 
     ec.DESC("--- Test - Point - Smoketest ---");
