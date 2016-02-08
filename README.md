@@ -63,7 +63,8 @@ To run the generated program:
    *   The test suite is in <tt>PointTests.h</tt> and <tt>PointTests.cpp</tt>. <tt>main.cpp</tt> runs the tests.
 
 Compiler:
-    This program was tested on a GCC compiler.
+
+This program was tested on a GCC compiler.
     
 * * *
 Lauren Macias
