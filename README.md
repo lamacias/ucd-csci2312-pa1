@@ -100,6 +100,7 @@ To run the generated program:
 
 
     This program is based on a test suite. Test-driven development (TDD) means that you write your test code before you write the actual code it has to test. The test suite is written in such a way that earlier tests are more basic and later tests require earlier tests to be running.
+    
    *   The test suite is in <tt>PointTests.h</tt> and <tt>PointTests.cpp</tt>. <tt>main.cpp</tt> runs the tests.
    
    Note: If you see that CMake is complaining that it can't find some of its files (e.g. <tt>area.cpp</tt>), you should create them. To add them to your git _local_ repository, you need to execute the command
