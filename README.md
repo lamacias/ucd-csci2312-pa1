@@ -99,7 +99,7 @@ To run the generated program:
    In CLion, you first have to build (Run-->Build) and then run (Run-->Run 'ucd_csci2312_pa1') your project. Any output will appear in the built-in console.
 
 
-    This program is based on a test suite. Test-driven development (TDD) means that you write your test code before you write the actual code it has to test. The test suite is written in such a way that earlier tests are more basic and later tests require earlier tests to be running.
+ This program is based on a test suite. Test-Driven Development (TDD) means that you write your test code before you write the actual code it has to test. The test suite is written in such a way that earlier tests are more basic and later tests require earlier tests to be running. The most basic test is usually called a "smoke test", so it's best to start there.
     
    *   The test suite is in <tt>PointTests.h</tt> and <tt>PointTests.cpp</tt>. <tt>main.cpp</tt> runs the tests.
    
