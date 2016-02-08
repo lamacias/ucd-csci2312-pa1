@@ -2,8 +2,8 @@
 
 
 * * *
-
-Here is a header file <tt>Point.h</tt> that is used to describe an object representing a point in three-dimensional Euclidean space:
+This program uses objects of a class Point to compute the distance between and the area of various three-dimensional points.
+Here is the header file <tt>Point.h</tt> that is used to describe an object representing a point in three-dimensional Euclidean space:
 
 ```c++
 // A 3-dimensional point class
@@ -47,7 +47,6 @@ The <tt>area.cpp</tt> file contains a function, <tt>computeArea</tt>, that compu
 The <tt>main.cpp</tt> file contains the main function, which acts as a driver to implement the test code to test the functionality of the program.
 
 To compile the program:
-    If you comfortable with the command line, compile these sources together like so:
 
    ```
    g++ -Wall main.cpp area.cpp Point.cpp PointTests.cpp ErrorContext.cpp -o ucd-csci2312-pa1
